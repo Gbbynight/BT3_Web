@@ -6,45 +6,6 @@ body{
 }
 
 /* Khiem's CSS */
-.header{
-    display: flex;
-    background-color: red;
-}
-
-
-.slogan1{
-    color: white;
-    width: 30%;
-    margin-left:5%;
-}
-
-.header img{
-    width: 30%;
-    margin-left: 13%;
-}
-
-.slogan2{
-    color: white;
-    width: 30%;
-    margin-left: 15%;
-}
-
-.footer{
-    color:white;
-    display: flex;
-}
-
-.group_info{
-    width: 30%;
-}
-
-.contact{
-    width: 30%;
-}
-
-.copyright{
-    width:30%;
-}
 .nxk{
     color: white;
 }
@@ -263,13 +224,100 @@ body{
     cursor: pointer;
 }
 
-h3.ct3, h3.ct4 {
-    color: #AA2E2A;
-    font-family: "Montserrat", sans-serif;
+/* CSS cho bai 3 */
+.noidungtungchap h3{
     font-size: 30px;
-    text-transform: uppercase;
-    padding-left: 20px;
-    margin-bottom: 10px;
+    font-family: "Montserrat", sans-serif;
+    color:#AA2E2A;
+    margin-left: 20px;
+}
+
+.noidungtungchap ul span{
+    font-weight: bold;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 20px;
+}
+
+.noidungtungchap ul li{
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 20px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
 }
 
 
+.slogan1{
+    color:#AA2E2A;
+    width: 30%;
+    margin-left:5%;
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.header img{
+    width: 30%;
+}
+
+.slogan2{
+    color:#AA2E2A;
+    width: 30%;
+    margin-right: 5%;
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.footer{
+    margin-top: 20px;
+    background: #AA2E2A;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.group_info{
+    width: 30%;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.group_info a{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+.group_info span{
+    font-weight: bold;
+}
+
+.backtopage{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contact{
+    width: 30%;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.copyright{
+    width:30%;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
