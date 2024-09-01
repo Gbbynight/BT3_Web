@@ -263,4 +263,13 @@ body{
     cursor: pointer;
 }
 
+h3.ct3, h3.ct4 {
+    color: #AA2E2A;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
 
