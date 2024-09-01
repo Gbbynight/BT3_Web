@@ -1,0 +1,227 @@
+
+body{
+    background: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* Khiem's CSS */
+.nxk{
+    color: white;
+}
+
+.nxk img{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.nxk h1{
+    color: white;
+    font-family:"Montserrat", sans-serif;
+    font-size: 100px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+}
+
+.nxk h2{
+    color: white;
+    font-family:"Montserrat", sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    background:#AA2E2A ;
+}
+
+.nxk p{
+    font-family:"Montserrat Alternates", sans-serif;
+    font-size: 25px;
+    padding-left: 20px;
+}
+
+.highlight{
+    color: #AA2E2A;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+.info ul li{
+    font-family:"Montserrat Alternates", sans-serif;
+    font-size: 20px;
+}
+
+.nxk>div>p>a{
+    text-decoration: none;
+    color:#AA2E2A;
+    font-weight: 500;
+}
+
+.story h2{
+    text-align: center;
+}
+
+.story ul li{
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 20px;
+}
+
+.list li:nth-child(3) a{
+    text-decoration: none;
+    color:aquamarine ;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* thao's CSS */
+.npt h2{
+    color: white;
+    font-family:"Montserrat", sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    background:#AA2E2A ;
+}
+
+.npt h3{
+    color: #AA2E2A;
+    font-family:"Montserrat", sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+
+.npt ul li{
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+/* bao's CSS */
+.ntgb h2{
+    color: white;
+    font-family:"Montserrat", sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    background:#AA2E2A ;
+}
+
+.ntgb ul li{
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.anhgameplayvacutsences {
+    column-count: 3;
+    column-gap: 20px;
+}
+
+.anhgameplayvacutsences .item {
+    margin-bottom: 10px;
+}
+
+.anhgameplayvacutsences img { 
+    width: 100%;
+    display: block;
+    border-radius: 5px;
+}
+
+.reviews .comment-title{
+    color: #AA2E2A;
+    font-family:"Montserrat", sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+
+.reviews tr td{
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.review-table .head{
+    background: #AA2E2A;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+/* vu's CSS */
+.vtm h2 {
+    color: white;
+    font-family:"Montserrat", sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    background:#AA2E2A ;
+}
+
+.bang {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: #333;
+}
+
+.db {
+    background-color:#AA2E2A;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 15px;
+    text-align: left;
+    color: #eaeaea;
+    font-family:  "Montserrat Alternates", sans-serif;
+}
+
+.tb {
+    padding: 10px;
+    font-size: 16px;
+    text-align: left;
+    color: #fff;
+    font-family:  "Montserrat Alternates", sans-serif;
+}
+
+.td {
+    text-align: center;
+    color: #fff;
+    font-family:  "Montserrat Alternates", sans-serif;
+}
+
+.lkg {
+    background-color: #AA2E2A;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.lkg h1{
+    font-family:"Montserrat", sans-serif;
+    color: white;
+    font-size: 50px;
+}
+
+.lkg p{
+    font-family:  "Montserrat Alternates", sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.lkg a{
+    color: white;
+    font-family:  "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+
