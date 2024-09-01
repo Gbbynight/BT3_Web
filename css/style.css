@@ -6,6 +6,45 @@ body{
 }
 
 /* Khiem's CSS */
+.header{
+    display: flex;
+    background-color: red;
+}
+
+
+.slogan1{
+    color: white;
+    width: 30%;
+    margin-left:5%;
+}
+
+.header img{
+    width: 30%;
+    margin-left: 13%;
+}
+
+.slogan2{
+    color: white;
+    width: 30%;
+    margin-left: 15%;
+}
+
+.footer{
+    color:white;
+    display: flex;
+}
+
+.group_info{
+    width: 30%;
+}
+
+.contact{
+    width: 30%;
+}
+
+.copyright{
+    width:30%;
+}
 .nxk{
     color: white;
 }
