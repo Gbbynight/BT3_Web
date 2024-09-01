@@ -259,6 +259,7 @@ body{
     font-size: 40px;
     font-weight: bold;
     text-align: center;
+    text-transform: uppercase;
 }
 
 .header img{
@@ -273,6 +274,7 @@ body{
     font-size: 40px;
     font-weight: bold;
     text-align: center;
+    text-transform: uppercase;
 }
 
 .footer{
